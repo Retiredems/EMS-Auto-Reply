@@ -33,8 +33,8 @@ on a schedule, replies once per sender, and stays out of your way in the
 system tray.
 
 ## Screenshots
+<img width="1101" height="811" alt="Screenshot 2026-07-01 at 15 06 44" src="https://github.com/user-attachments/assets/dfdd122e-19ee-4406-8040-38b872d7adfa" />
 
-<!-- Add screenshots here: dashboard, rules editor, templates, activity log. -->
 
 ## How Replies Work
 
